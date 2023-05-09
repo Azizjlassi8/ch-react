@@ -44,7 +44,7 @@ function App() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-      <h1>Welcome in our heavenly place</h1>
+      <h1>Welcome in our shop </h1>
       { /* formulaire part*/}
       <form>
   <label>
@@ -64,34 +64,34 @@ function App() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://i.pinimg.com/564x/c8/94/5a/c8945a3b2fc96dd036a066eb2304f9b3.jpg"
+          src="https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1665691099&q=75"
           alt="First slide"/>
         <Carousel.Caption>
           <h3>First slide label</h3>
-          <p>La maison d'hôtes COULEUR MEDITERRANEE, entièrement tournée vers la mer, est conçue en demi-niveaux permettant à chacun de s'isoler s'il le désire. Au rez-de-chaussée et au centre de la maison, une cour fermée de style arabe ou patio vous accueille. Vous pourrez siroter un thé, confortablement installé sur un divan, au doux murmure de la fontaine tellement rafraîchissante ou y prendre votre petit déjeuner, copieux, avec des produits faits maison et vous prélasser au soleil ou sous un parasol en y écoutant la mer.</p>
+          <p>Imaginée par Peter Moore, la Air Jordan 1 est le premier modèle signature du prodigieux Michael Jordan. Selon la légende orchestrée par Jordan Brand, le coloris OG Black/Red introduit en 1985 au prix de 65$ a suscité la polémique au sein de la NBA puisqu'il ne respectait pas le code vestimentaire de la ligue.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://i.pinimg.com/564x/e4/d9/c6/e4d9c6f5462291792e19e8e5930657ea.jpg"
+          src="https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1652711257"
           alt="Second slide"/>
 
         <Carousel.Caption>
           <h3>Second slide label</h3>
-          <p>Le Shangri-La Villingili Maldives : le luxe et l’expérience</p>
+          <p>La Air Jordan 4 se révèle toutefois plus légère et profilée. Parmi les détails de conception emblématiques, on retrouve le filet en maille sur les parties latérales et la languette, avec le système de support de laçage et les ailes emblématiques de la chaussure.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://i.pinimg.com/564x/ed/69/83/ed6983eed9be040334de2714fc7fd03c.jpg"
+          src="https://images.solecollector.com/complex/image/upload/c_fill,f_auto,fl_lossy,q_auto,w_1100/air-jordan-11-retro-playoffs-2012_pqquyy.jpg"
           alt="Third slide" />
 
         <Carousel.Caption>
           <h3>Third slide label</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          Designed by Tinker Hatfield, the Jordan 11 was the first Air Jordan to feature patent leather and carbon fiber in addition to cordura nylon. The original Jordan 11 was released from 1995-1996 in both mid cut and low cut IE colorways
           </p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -99,7 +99,7 @@ function App() {
      {/* footer  */}
      <footer>
         <div className='footer'>
-        <h2>feel free to contact us for any further information</h2>
+        <h2>If you need anything make this shop your home</h2>
         <br/>
         <p>Phone Number: 0084524962258</p>
         <br/>
